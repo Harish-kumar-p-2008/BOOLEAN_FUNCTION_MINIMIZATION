@@ -1,0 +1,37 @@
+|deexp2
+a => WideAnd1.IN0
+a => WideAnd0.IN0
+a => WideAnd3.IN0
+b => WideAnd3.IN1
+b => WideAnd4.IN0
+b => WideAnd0.IN1
+b => WideAnd2.IN0
+c => WideAnd2.IN1
+c => WideAnd3.IN2
+c => WideAnd0.IN2
+c => WideAnd1.IN1
+c => WideAnd4.IN1
+d => WideAnd3.IN3
+d => WideAnd4.IN2
+d => WideAnd0.IN3
+d => WideAnd1.IN2
+d => WideAnd2.IN2
+w => WideAnd8.IN0
+w => WideAnd9.IN0
+w => WideAnd7.IN0
+x => WideAnd5.IN0
+x => WideAnd7.IN1
+x => WideAnd9.IN1
+x => WideAnd6.IN0
+x => WideAnd8.IN1
+y => WideAnd7.IN2
+y => WideAnd8.IN2
+y => WideAnd9.IN2
+y => WideAnd5.IN1
+y => WideAnd6.IN1
+z => WideAnd5.IN2
+z => WideAnd6.IN2
+f1 <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+f2 <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+
+
